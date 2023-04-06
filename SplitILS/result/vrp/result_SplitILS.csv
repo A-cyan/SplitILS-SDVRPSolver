@@ -1,0 +1,6 @@
+instance,N,author_id,author_name,algo,sol,time
+eil22.vrp,22,123456,Accyan,SplitILS,375.2797871480124,1.416
+eil23.vrp,23,123456,Accyan,SplitILS,568.5625010705219,0.6
+eil30.vrp,30,123456,Accyan,SplitILS,505.01107914553756,0.68
+eil33.vrp,33,123456,Accyan,SplitILS,837.6715519725763,1.083
+eil51.vrp,51,123456,Accyan,SplitILS,545.6139101574429,2.169
